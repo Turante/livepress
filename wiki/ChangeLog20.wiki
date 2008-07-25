@@ -1,4 +1,5 @@
-#summary List of changes made to 2.0 release of wordpress.
+#summary ChangeLog for livepress version 2.0
+#labels ChangeLog,Livepress2.0
 
 = Introduction =
 These are list of changes made to the plugin from the last known pre-wordpress 2.2 release.
