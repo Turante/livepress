@@ -1,0 +1,28 @@
+#summary List of changes made to 2.0 release of wordpress.
+
+= Introduction =
+These are list of changes made to the plugin from the last known pre-wordpress 2.2 release.
+
+
+= Details =
+
+*2.0 UPDATES (ChangeLog):*
+
+
+*Bugs fixed:*
+
+  * publishing to "friends" would really publish to "private".
+  * lpextras php warning on "add a new Post" page.
+  * Updated class-IXR.php for WP 2.5.1
+
+
+*Changes:*
+
+  * sync wp tags, lj tags, instead of wp categories
+  * Moved linkback to the top of the LJ post instead of the end of the post.
+  * Added to the linkback, a request that comments be left at the originating blog. (would make sense to turn comments off on LJ)
+
+
+*New Functionality:*
+
+  * Added new delete_post hook and function so that WP post delete also deletes LJ post. 
