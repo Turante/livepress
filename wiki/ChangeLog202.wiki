@@ -1,5 +1,5 @@
 #summary ChangeLog for Livepress version 2.0.2
-#labels Featured
+#labels ChangeLog
 
 = Introduction =
 These are list of changes made to the plugin between the 2.0.1 and 2.0.2 releases.
