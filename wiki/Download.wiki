@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Download Live+Press
 #labels Featured
 
 == Where do I get the plugin? ==
@@ -7,6 +7,6 @@ The plugin is available from the WordPress Plugin Directory
   *[http://wordpress.org/extend/plugins/livepress/  Click here to get Live+Press]*
 
 
-= How do I install the plugin? =
+== How do I install the plugin? ==
 
 See the [Installation Installation Instructions]
