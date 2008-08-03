@@ -1,11 +1,12 @@
 #summary Download Live+Press
 #labels Featured
 
+
 == Where do I get the plugin? ==
 
 The plugin is available from the WordPress Plugin Directory
 
-*[http://wordpress.org/extend/plugins/livepress/  Click here to get Live+Press]*
+*[http://wordpress.org/extend/plugins/livepress/  Download Live+Press Now]*
 
 
 
