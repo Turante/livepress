@@ -3,13 +3,9 @@
 
 
 == Where do I get the plugin? ==
-
-The plugin is available from the WordPress Plugin Directory
-
-*[http://wordpress.org/extend/plugins/livepress/  Go There Now]*
+The plugin is available from the WordPress Plugin Directory :: _[http://wordpress.org/extend/plugins/livepress/  Go There Now]_
 
 
 
 == How do I install the plugin? ==
-
 Follow the [Installation Installation Instructions]
