@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+== Where do I get the plugin? ==
+
+The plugin is available from the WordPress Plugin Directory
+*[http://wordpress.org/extend/plugins/livepress/  Right Here]*
+
+
+= How do I install the plugin? =
+
+Make sure you read [Installation Installation Instructions]
