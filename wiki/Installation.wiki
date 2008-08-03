@@ -1,10 +1,6 @@
 #summary How to install LivePress plugin
 #labels Phase-Deploy,Featured
 
-= Where do I get the Plugin? =
-
-[http://wordpress.org/extend/plugins/livepress Download the Plugin Here ]
-
 
 = Details =
 
