@@ -1,0 +1,11 @@
+#summary List of links to useful references
+#labels Phase-Requirements
+
+
+
+= Links =
+*LiveJournal Reference*
+
+
+Login Protocol
+  * http://www.livejournal.com/doc/server/ljp.csp.xml-rpc.login.html
