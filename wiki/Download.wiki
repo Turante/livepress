@@ -4,9 +4,9 @@
 == Where do I get the plugin? ==
 
 The plugin is available from the WordPress Plugin Directory
-*[http://wordpress.org/extend/plugins/livepress/  Right Here]*
+  *[http://wordpress.org/extend/plugins/livepress/  Click here to get Live+Press]*
 
 
 = How do I install the plugin? =
 
-Make sure you read [Installation Installation Instructions]
+See the [Installation Installation Instructions]
