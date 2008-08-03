@@ -6,10 +6,10 @@
 
 The plugin is available from the WordPress Plugin Directory
 
-*[http://wordpress.org/extend/plugins/livepress/  Download Live+Press Now]*
+*[http://wordpress.org/extend/plugins/livepress/  Go There Now]*
 
 
 
 == How do I install the plugin? ==
 
-See the [Installation Installation Instructions]
+Follow the [Installation Installation Instructions]
