@@ -1,4 +1,4 @@
-#summary Download Live+Press
+#summary Getting Live+Press
 #labels Featured
 
 
@@ -8,4 +8,4 @@ The plugin is available from the WordPress Plugin Directory :: _[http://wordpres
 
 
 == How do I install the plugin? ==
-Follow the [Installation Installation Instructions]
+Follow the _[Installation Installation Instructions]_
