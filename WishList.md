@@ -1,0 +1,13 @@
+# Introduction #
+
+
+
+# Details #
+
+Future features wish list:
+  * scheduled post for future publishing will crosspost at the future scheduled time, instead of immediately.
+  * expand Livepress to sync with other popular sites that use the LiveJournal? engine such as InsaneJournal?, DeadJournal?.
+  * expand to sync with MySpace?.
+
+
+If you have any suggestions or want to comment on any of the items on the wishlist, please comment!
